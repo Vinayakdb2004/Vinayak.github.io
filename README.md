@@ -1,1 +1,1 @@
-https://Vinayak.github.io
+https://shorturl.at/IpXnz
