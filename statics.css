@@ -2,7 +2,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #2c3e60; /* Dark blue-gray color */
+    background-color: #D3D3D3; /* Dark blue-gray color */
     color: #ecf0f1; /* Light gray color */
 }
 
@@ -96,3 +96,4 @@ form button {
 form button:hover {
     background-color: #16a085;
 }
+
